@@ -23,7 +23,7 @@
 
 ## 代码仓库
 
-[游戏代码链接](./TrueGod/Assets/Scripts)
+[游戏代码链接](https://github.com/TrueGodARGame/TrueGodGame/tree/master/TrueGod/Assets/Scripts)
 
 ## 展示文档
 
@@ -34,6 +34,4 @@
 
 ## [视频网址]()
 
-## 游戏下载链接
-
-[TrueGod](。/TrueGod.apk)
+## [游戏下载链接](https://github.com/TrueGodARGame/TrueGodGame/blob/master/TrueGod.apk)
