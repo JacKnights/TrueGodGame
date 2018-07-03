@@ -122,7 +122,7 @@
 
 **流程图**
 
-![第一关流程](https://github.com/TrueGodARGame/TrueGodGame/blob/master/Document/first.png)
+![第一关流程](https://raw.githubusercontent.com/TrueGodARGame/TrueGodGame/master/Document/first.png)
 
 
 ## 设计文档
@@ -192,7 +192,7 @@ NPC的数量是无数的，玩家需要在堡垒崩塌前尽可能击杀更多�
 
 ## Gif动画
 
-![Gif: TrueGod](https://github.com/TrueGodARGame/TrueGodGame/blob/master/TrueGod.gif)
+![Gif: TrueGod](https://raw.githubusercontent.com/TrueGodARGame/TrueGodGame/master/TrueGod.gif)
 
 ## 展示视频
 
