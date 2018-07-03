@@ -122,7 +122,7 @@
 
 **流程图**
 
-![第一关流程](https://github.com/TrueGodARGame/TrueGodGame/blob/master/Document/%E7%AC%AC%E4%B8%80%E5%85%B3%E6%B5%81%E7%A8%8B.png)
+![第一关流程](https://github.com/TrueGodARGame/TrueGodGame/blob/master/Document/first.png)
 
 
 ## 设计文档
