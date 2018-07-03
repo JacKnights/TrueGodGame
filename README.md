@@ -196,8 +196,7 @@ NPC的数量是无数的，玩家需要在堡垒崩塌前尽可能击杀更多�
 
 ## 展示视频
 
-[视频网址](https://pan.baidu.com/s/1n-JWl5VKEX1IB_jquwkD2w
-15336)
+[视频网址](https://pan.baidu.com/s/1n-JWl5VKEX1IB_jquwkD2w)
 
 ## 游戏下载链接
 
